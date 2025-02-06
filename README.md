@@ -28,13 +28,21 @@ The **Transliterator Plugin** recognizes the **Georgian alphabet** and translite
 5. A new field will be created with the **Latin transliteration**.
 
 ## 📜 Example
+**Input:** `საქართველო` → **Output:** `saqarTvelo`
 **Input:** `თბილისი` → **Output:** `Tbilisi`
+**Input:** `ჭიათურა` → **Output:** `WiaTura`
+**Input:** `ქუჩა` → **Output:** `quCa`
+**Input:** `შესახვევი` → **Output:** `Sesaxvevi`
+**Input:** `ჩიხი` → **Output:** `Cixi`
+**Input:** `ჭიათურა` → **Output:** `WiaTura`
+**Input:** `ჭიათურა` → **Output:** `WiaTura`
+            
 
 ## 🏆 Credits
-Developed by **[Your Name]** for simplifying transliteration in GIS projects.
+Developed by **[Kapanadze]** for simplifying transliteration in GIS projects.
 
 ## 📧 Support
-For issues or suggestions, feel free to **open an issue** or **contact the developer**.
+For issues or suggestions, feel free to **open an issue** or **contact me**.
 
 Happy Mapping! 🌍✨
 
